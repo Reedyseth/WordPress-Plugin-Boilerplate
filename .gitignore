@@ -37,3 +37,7 @@ dwsync.xml
 intermediate
 .idea
 cache
+
+# Package managers
+*/vendor/
+*/npm_modules/
